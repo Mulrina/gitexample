@@ -1,5 +1,5 @@
 # List
 
-[x] apple
-[x] orange
-[ ] banana
+- [x] apple
+- [x] orange
+- [ ] banana
