@@ -1,4 +1,4 @@
 # List
 
-[ ] apple
+[x] apple
 [x] orange
